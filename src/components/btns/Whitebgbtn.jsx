@@ -1,5 +1,5 @@
 import React from 'react'
-import "./whitebgbtn.css"
+import "./Whitebgbtn.css"
 const Whitebgbtn = ({text}) => {
   return (
     <button className='whitebgbtn'>
